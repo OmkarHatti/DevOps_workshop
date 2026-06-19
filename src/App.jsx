@@ -19,7 +19,7 @@ function App() {
         }}
       />
 
-      <h1>Omkar Hatti/h1>
+      <h1>Omkar Hatti</h1>
       <h3>Data dknnkf</h3>
 
       <p>
