@@ -20,7 +20,7 @@ function App() {
       />
 
       <h1>John Doe</h1>
-      <h3>Data hellp</h3>
+      <h3>Data dknnkf</h3>
 
       <p>
         Passionate developer with experience building modern web applications,
